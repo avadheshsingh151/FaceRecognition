@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FaceRecognition</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="title">
+        <item>Home</item>
+        <item>Image Setting</item>
+        <item>Pin Setting</item>
+        <item>Developers</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="icons">
+        <item>@drawable/deezer_cloud</item>
+        <item>@drawable/reddit_cloud</item>
+        <item>@drawable/technorati_cloud</item>
+        <item>@drawable/stumble_cloud</item>
+    </array>
+
+    <string name="title_activity_face_recognition">FaceRecognition</string>
+    <string name="title_activity_image__config">Image_Config</string>
+    <string name="title_activity_pin__config">Pin_Config</string>
+    <string name="title_activity_pin__mode">PIN_MODE</string>
+
+</resources>
